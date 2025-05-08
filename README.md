@@ -44,7 +44,7 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Enhance Dataset**: Adding this calculated field will streamline further SQL analysis and aggregation tasks.
 
 ### 8. Load Data into MySQL
-   - **Set Up Connections**: Connect to MySQL and PostgreSQL using `sqlalchemy` and load the cleaned data into each database.
+   - **Set Up Connections**: Connect to MySQL using `sqlalchemy` and load the cleaned data into each database.
    - **Table Creation**: Set up tables in MySQL using Python SQLAlchemy to automate table creation and data insertion.
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
