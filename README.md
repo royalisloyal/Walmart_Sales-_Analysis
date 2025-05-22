@@ -5,6 +5,9 @@
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilize Python for data processing and analysis, SQL for querying. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
+## Project Flow process
+![ERD(https://github.com/royalisloyal/Walmart_Sales_Analysis/blob/main/WALMART%20Sales%20Analysis%20process.png)
+
 ## Project Steps
 
 ### 1. Set Up the Environment
