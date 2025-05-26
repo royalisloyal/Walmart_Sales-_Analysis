@@ -3,10 +3,9 @@
 
 ## Project Overview
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilize Python for data processing and analysis, SQL for querying. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+Analyzed 10,000+ Walmart sales records from Kaggle using Python for data cleaning and SQL for business queries. .Designed to help retail analysts optimize operations, pricing strategies, and branch performance.
 
 ## Project Flow process
-![ERD(https://github.com/royalisloyal/Walmart_Sales_Analysis/blob/main/WALMART%20Sales%20Analysis%20process.png)
 
 ![ERD Diagram](https://github.com/royalisloyal/Walmart_Sales_Analysis/blob/main/WALMART%20Sales%20Analysis%20process.png)
 
@@ -53,8 +52,8 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Table Creation**: Set up tables in MySQL using Python SQLAlchemy to automate table creation and data insertion.
    - **Verification**: Run initial SQL queries to confirm that the data has been loaded accurately.
 
-### 9. SQL Analysis: Complex Queries and Business Problem Solving
-   - **Business Problem-Solving**: Write and execute complex SQL queries to answer critical business questions, such as:
+### 9. SQL Analysis: Queries and Business Problem Solving
+   - **Business Problem-Solving**: Write and execute SQL queries to answer critical business questions, such as:
      - Revenue trends across branches and categories.
      - Identifying best-selling product categories.
      - Sales performance by time, city, and payment method.
