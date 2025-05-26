@@ -8,6 +8,8 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Project Flow process
 ![ERD(https://github.com/royalisloyal/Walmart_Sales_Analysis/blob/main/WALMART%20Sales%20Analysis%20process.png)
 
+![ERD Diagram](https://github.com/royalisloyal/Walmart_Sales_Analysis/blob/main/WALMART%20Sales%20Analysis%20process.png)
+
 ## Project Steps
 
 ### 1. Set Up the Environment
