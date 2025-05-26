@@ -1,5 +1,5 @@
 
-## Walmart_Sales-_Analysis: SQL + Python Project ##
+## Walmart_Sales_Analysis: MySQL + Python Project ##
 
 ## Project Overview
 
